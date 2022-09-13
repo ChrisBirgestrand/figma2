@@ -466,3 +466,78 @@ a:visited, a:link, a:hover, a:active {
     left: 779px;
     top: 87.82%;
 }
+
+.section5 {
+    position: absolute;
+    left: 147px;
+    top: 2697px;
+    width: 1121px;
+    height: 521px;
+}
+
+.PS5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #544837;
+}
+
+.S5 {
+    height: 181px;
+    width: 486px;
+    top: 144px;
+}
+
+.T5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #2F281E;
+}
+
+.PS51 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #544837;
+    width: 486px;
+    height: 78px;
+}
+
+.PT51 {
+    position: absolute;
+    width: 486px;
+    height: 90px;
+    left: 0px;
+    top: 200px;
+}
+
+.PT52 {
+    position: absolute;
+    width: 486px;
+    height: 90px;
+    left: 0px;
+    top: 380px;
+}
+
+.PT53 {
+    position: absolute;
+    width: 486px;
+    height: 90px;
+    left: 0px;
+    top: 550px;
+}
+
+.fpic {
+    position: absolute;
+    width: 542px;
+    height: 609px;
+    left: 715px;
+    top: 0px;
+}
