@@ -541,3 +541,76 @@ a:visited, a:link, a:hover, a:active {
     left: 715px;
     top: 0px;
 }
+
+.footer {
+    border-top: 4px #ccc;
+    display: block;
+    position: absolute;
+    width: 1109px;
+    height: 308px;
+    left: 173px;
+    top: 3555px;
+}
+
+.S61 {
+    width: 378px;
+    height: 205px;
+    position: absolute;
+    height: 140px;
+    left: 484px;
+    top: calc(50% - 140px/2 + 32.5px);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #544837;
+    list-style-type: none;
+}
+
+.S62 {
+    width: 378px;
+    height: 205px;
+    position: absolute;
+    height: 140px;
+    right: -0.76%;
+    top: calc(50% - 140px/2 + 32.5px);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #544837;
+    list-style-type: none;
+}
+
+.SignupNow {
+    background-color: #FF9900;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-color: #FF9900;
+    font-family: 'Poppins';
+    font-style: normal;
+    width: 131px;
+    height: 39px;
+    position: absolute;
+    top: 200px;
+    bottom: 200px;
+    left: 944px;
+}
+
+.search {
+    width: 325px;
+    height: 48px;
+    position: absolute;
+    left: 944px;
+    right: 0%;
+    top: 40%;
+    bottom: 30.15%;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+}
