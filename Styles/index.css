@@ -1,0 +1,60 @@
+.nav {
+    position: absolute;
+    width: 1400px;
+    height: 78px;
+    left: 0px;
+    top: 20px;
+    
+}
+
+.navmenu {
+    position: absolute;
+    height: 28px;
+    left: 46.43%;
+    right: 28.57%;
+    top: calc(50% - 28px/2 - 1px);
+}
+
+.Signbutton1 {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    position: absolute;
+    left: 1029px;
+    top: 15px;
+    border-color: #bcd0e5;
+    border-radius: 8px;
+    height: 46px;
+    width: 102px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.Signbutton2 {
+    position: absolute;
+    left: 81.79%;
+    right: 10.36%;
+    top: 19.23%;
+    bottom: 21.79%;
+    background-color: #FF9900;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-color: #FF9900;
+}
+
+a:visited, a:link, a:hover, a:active {
+    color: #2f281e;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.section1 {
+    position: absolute;
+    width: 1126px;
+    height: 496px;
+    left: 145px;
+    top: 128px
+}
