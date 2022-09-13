@@ -58,3 +58,55 @@ a:visited, a:link, a:hover, a:active {
     left: 145px;
     top: 128px
 }
+
+.title1 {
+    position: absolute;
+    width: 518px;
+    height: 108px;
+    left: 145px;
+    top: 211px;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 54px;
+}
+
+.P1 {
+    position: absolute;
+    width: 458px;
+    height: 95px;
+    left: 145px;
+    top: 349px;
+}
+
+.T1button {
+    position: absolute;
+    width: 175px;
+    height: 53px;
+    left: 145px;
+    top: 489px;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border-color: #FF9900;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.T2button {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    left: 350px;
+    top: 504px;
+    color: #FF9900;
+    text-decoration: underline;
+    border: none;
+    background-color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.triangle {
+}
+
+.firstpic {
+    float: right;
+}
