@@ -134,14 +134,18 @@ a:visited, a:link, a:hover, a:active {
     text-align: center;
 }
 
+/*
 .container1{
     position: absolute;
     width: 1095px;
     height: 204px;
     left: 567px;
     top: 162px;
-    
+    display: flex;
+    align-content: flex-start;
+    justify-content: flex-start; 
 }
+*/
 .Hcard {
     position: absolute;
     height: 33px;
@@ -181,5 +185,35 @@ a:visited, a:link, a:hover, a:active {
     height: 178px;
     left: 853px;
     top: 162px;
+
+}
+
+.card3 {
+    position: absolute;
+    width: 240px;
+    height: 178px;
+    left: 1138px;
+    top: 162px;
+}
+
+.card4  {
+    position: absolute;
+    width: 240px;
+    height: 204px;
+    left: 1422px;
+    top: 162px;
+}
+
+.Iconbutton {
+    position: absolute;
+    left: 46.45%;
+    right: 45.64%;
+    top: 73.66%;
+    bottom: 16.57%;
+    background-color: #FF9900;
+    color: white;
+    border-radius: 8%;
+    border-color: #FF9900;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 
 }
